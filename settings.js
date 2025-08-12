@@ -3,11 +3,11 @@ const chalk = require('chalk')
 
 global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~Opg0SJpK#8S0oqRDBJxz9hXhjSduFdNhJnymTQTrBWiQ440V0WZU"
 global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://ketkshqAqjXygEF5:ketkshqAqjXygEF5@freeuri.dmkyoml.mongodb.net/v2-sathsara-0768437929?retryWrites=true&w=majority&appName=freeuri"
-global.botname = process.env.BOTNAME || "KAVI-X MD"
-global.ownernumber = process.env.OWNERNUMBER || "94766577249"
-global.ownername = process.env.OWNERNAME || "Cyber Kavi"
-global.packname = process.env.PACKNAME || "KAVI-X MD"
-global.author = process.env.AUTHOR || "Cyber Kavi"
+global.botname = process.env.BOTNAME || "S.M-X MD"
+global.ownernumber = process.env.OWNERNUMBER || "94701160257"
+global.ownername = process.env.OWNERNAME || "Sathsara Maduwantha"
+global.packname = process.env.PACKNAME || "S.M-X MD"
+global.author = process.env.AUTHOR || "Sathsara Maduwantha"
 
 global.creator = process.env.CREATOR || "94702128378@s.whatsapp.net"
 global.botprefix = process.env.BOTPREFIX || "."
