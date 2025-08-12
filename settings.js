@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~Opg0SJpK#8S0oqRDBJxz9hXhjSduFdNhJnymTQTrBWiQ440V0WZU"
-global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://hashipramu2001:<sathsara1234>@cluster0.bwtm7pd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://ketkshqAqjXygEF5:ketkshqAqjXygEF5@freeuri.dmkyoml.mongodb.net/v2-sathsara-0768437929?retryWrites=true&w=majority&appName=freeuri"
 global.botname = process.env.BOTNAME || "KAVI-X MD"
 global.ownernumber = process.env.OWNERNUMBER || "94766577249"
 global.ownername = process.env.OWNERNAME || "Cyber Kavi"
